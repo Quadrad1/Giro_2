@@ -1,0 +1,30 @@
+jQuery(document).ready(function() {
+  jQuery(".eTimer").eTimer({
+    etType: 1,
+    etDate: "31.05.2017.0.0",
+    etTitleText: "До окончания акции осталось:",
+    etTitleSize: 24,
+    etShowSign: 1,
+    etSep: ":",
+    etFontFamily: "Trebuchet MS",
+    etTextColor: "#a3a3a3",
+    etPaddingTB: 15,
+    etPaddingLR: 15,
+    etBackground: "transparent",
+    etBorderSize: 0,
+    etBorderRadius: 2,
+    etBorderColor: "white",
+    etShadow: " 0px 0px 10px 0px transparent",
+    etLastUnit: 4,
+    etNumberFontFamily: "Impact",
+    etNumberSize: 35,
+    etNumberColor: "#363535",
+    etNumberPaddingTB: 0,
+    etNumberPaddingLR: 8,
+    etNumberBackground: "white",
+    etNumberBorderSize: 0,
+    etNumberBorderRadius: 5,
+    etNumberBorderColor: "white",
+    etNumberShadow: "inset 0px 0px 10px 0px rgba(0, 0, 0, 0.5)"
+  });
+});

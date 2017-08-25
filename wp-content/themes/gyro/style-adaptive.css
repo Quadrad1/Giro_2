@@ -1,0 +1,264 @@
+@media (min-width: 840px) and (max-width: 1199px) {
+	.w-center {width: 800px;}
+	#promo .top .left {
+		width: 590px;
+	}
+	#promo .top .right {
+		width: 200px;
+		margin-left: -20px;
+	}
+	#promo .top .left .menu ul li {
+		font-size: 15px;
+		line-height: 15px;
+	}
+	#promo .top .left .menu ul li a {
+		margin: 3px 7px 0px 7px; 
+		padding: 11px 11px 11px 11px;
+	}
+	#promo .top .left .menu {
+		margin-left: 15px; 
+		width: 290px;
+		margin-right: -20px;
+	}
+	#promo .main-txt {
+		margin-top: 30px;
+		width: 65%;
+	}
+	#promo .price {
+		display: none;
+	}
+	#promo .sub-main-title {
+		width: 75%;
+	}
+	#promo .sub-main-title br {
+		display: none;
+	}
+	#promo #img-promo-sumka {
+		margin-left: -190px;
+	}
+	#benefits .before-item {
+		padding-top: 24px;
+		font-size: 18px;
+		line-height: 24px;
+		height: 200px;
+	}
+	#benefits .before-item .z {
+		padding-top: 14px;
+	}
+	#benefits .before-items:before {
+		margin-left: -420px;
+		width: 840px;
+		background-size: contain;
+	}
+	.title-block {
+		font-size: 46px;
+		line-height: 50px;
+	}
+	.title-block.wave:after {
+		margin-top: 18px;
+	}
+	#gallery {
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+		width: auto !important;
+		height: auto;
+		opacity: 1 !important;
+	}
+	#gallery .imgs {
+		width: 25%;
+		height: auto;
+	}
+	#gallery .imgs img {
+		max-width: 100%;
+		height: auto;
+	}
+	#gallery .imgs:nth-child(3) {
+		display: none;
+	}
+	#video {
+		height: 380px;
+		background-size: cover;
+	}
+	#video .title {
+		padding-top: 25px;
+		font-size: 28px;
+		line-height: 33px;
+	}
+	#catalog {
+		padding-bottom: 60px;
+	}
+	#accessories .accessories-items {
+		padding-top: 2px;
+	}
+	#accessories .zag-block {
+		padding-top: 41px;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	#uncertainty .z {
+		font-size: 42px;
+		line-height: 45px;
+	}
+	#uncertainty .d {
+		font-size: 28px;
+		line-height: 33px;
+	}
+	#uncertainty .d br {
+		display: none;
+	}
+	.inline-form .inps {
+		margin-left: 8px !important;
+		margin-right: 8px !important;
+	}
+	.inline-form .submit-button {
+		margin-left: 0px;
+		margin-top: 18px;
+	}
+	#uncertainty .w-center > div {
+		top: -2px;
+	}
+	#owner .owner-items {
+		margin-top: 45px;
+	}
+	#owner .owner-items img {
+		max-width: 90%;
+	}
+	#owner {
+		padding-bottom: 65px;
+	}
+	#test-drive {
+		background-position: 54% 0px;
+	}
+	#test-drive .testing {
+		padding: 70px 0px 0px 350px;
+	}
+	#test-drive .testing .info ul li.i-2 {
+		width: 150px;
+	}
+	#test-drive .testing .info ul li.i-3 {
+		width: 150px;
+	}
+	#test-drive .testing .info ul li br {
+		display: none;
+	}
+	#test-drive .testing .z, #test-drive .zakaz-region .z {
+		line-height: 50px;
+	}
+	#test-drive .zakaz-region .z {
+		text-align: center;
+	}
+	#test-drive .zakaz-region .z br {
+		display: none;
+	}
+	#test-drive .zakaz-region {
+		margin-top: 90px; 
+		padding-left: 0px;
+		margin-left: -200px;
+		margin-right: -200px;
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+	#test-drive .zakaz-region .list ul {
+		padding-left: 46px;
+	}
+	#chips .w-center > div > div {
+		padding-left: 200px;
+	}
+	#chips .z br, #chips .d br {
+		display: none;
+	}
+	#chips .d br.line {
+		display: block;
+	}
+	#gifts .gift-item {
+		width: 250px;
+	}
+	#gifts .gift-items {
+		padding-top: 14px;
+	}
+	#gifts .gift-item .img {
+		width: 250px;
+		height: 210px;
+		background-size: contain;
+	}
+	#gifts .gift-item .txt {
+		font-size: 25px;
+		line-height: 30px;
+		padding-top: 10px;
+	}
+	.button-gift {
+		margin-top: 45px; 
+		width: 360px; 
+		height: 60px;
+		font-size: 17px; 
+		line-height: 17px;
+		padding-bottom: 0px;
+	}
+	#gifts {
+		padding-bottom: 60px;
+	}
+	#faq .answers-items {
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-top: 14px;
+	}
+	#faq .answers-item {
+		display: block;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+	#faq .important {
+		width: 340px;
+		margin: 0 auto;
+		margin-top: 30px;
+		min-height: inherit;
+		padding-right: 30px;
+		padding-bottom: 26px;
+	}
+	#faq .important .zag {
+		font-size: 20px;
+		line-height: 24px;
+		padding-top: 8px;
+	}
+	#faq .important .desc {
+		font-size: 17px;
+		line-height: 22px;
+		padding-top: 19px;
+	}	
+	#faq .questions {
+		font-size: 26px;
+		line-height: 26px;
+	}
+	#location .infos {
+		margin-right: -350px;
+	}
+	#footer .left {
+		width: 240px;
+		padding-top: 25px;
+	}
+	#footer .left .logo {
+		width: 230px;
+		background-size: contain;
+	}
+	#footer .center {
+		margin-left: 25px;
+		width: 210px;
+		font-size: 15px;
+		padding-top: 27px;
+	}
+	#footer .center .tell {
+		font-size: 19px;
+		line-height: 19px;
+	}
+	#footer .reforge a {
+		font-size: 15px;
+	}
+	#footer .right {
+		width: 310px;
+	}
+	#footer .reforge a:after, #footer .reforge a::after {
+		margin-left: 2px;
+	}	
+}

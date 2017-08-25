@@ -1,0 +1,26 @@
+.checkbox_preview {
+font-size: 12px;
+}
+.checkbox_preview > i {
+content: "";
+width: 20px;
+height: 20px;
+display: inline-block;
+position: relative;
+top: 6.5px;
+margin-right: 8px;
+margin-left: 10px;
+border: 1px solid #ddd;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+#acf-material_type .acf-radio-list li, #acf-material_type .acf-checkbox-list li {
+padding-bottom: 20px;
+width: 23%;
+}
+#acf-material_type ul.acf-radio-list.horizontal li, #acf-material_type  ul.acf-checkbox-list.horizontal li {
+float: none;
+display: inline-block;
+vertical-align: top;
+}
